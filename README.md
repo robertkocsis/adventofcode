@@ -1,0 +1,1 @@
+This repository contains my solutions for the 2022 advent of code
