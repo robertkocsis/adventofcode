@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "run1": "bun run 1/1.ts"
+    "run1": "bun run 1/1.ts",
+    "run2": "bun run 2/2.ts"
   }
 }
