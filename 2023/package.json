@@ -15,6 +15,7 @@
     "run4": "bun run 4/4.ts",
     "run5": "bun run 5/5.ts",
     "run6": "bun run 6/6.ts",
-    "run7": "bun run 7/7.ts"
+    "run7": "bun run 7/7.ts",
+    "run8": "bun run 8/8.ts"
   }
 }
