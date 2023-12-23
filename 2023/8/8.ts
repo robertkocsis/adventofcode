@@ -1,5 +1,3 @@
-import { get } from "http";
-
 const firstFile = Bun.file('8/firstFile.txt');
 const secondFile = Bun.file('8/secondFile.txt');
 
