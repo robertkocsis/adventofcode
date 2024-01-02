@@ -1,5 +1,3 @@
-import { get } from 'http';
-
 const file = Bun.file('11/file.txt');
 
 interface Point {
