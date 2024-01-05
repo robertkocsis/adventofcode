@@ -21,6 +21,7 @@
     "10": "bun run 10/10.ts",
     "11": "bun run 11/11.ts",
     "12": "bun run 12/12.ts",
-    "13": "bun run 13/13.ts"
+    "13": "bun run 13/13.ts",
+    "14": "bun run 14/14.ts"
   }
 }
