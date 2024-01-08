@@ -25,7 +25,8 @@
     "14": "bun run 14/14.ts",
     "15": "bun run 15/15.ts",
     "16": "bun run 16/16.ts",
-    "17": "bun run 17/17.ts"
+    "17": "bun run 17/17.ts",
+    "18": "bun run 18/18.ts"
   },
   "dependencies": {}
 }
