@@ -29,7 +29,9 @@
     "18": "bun run 18/18.ts",
     "19": "bun run 19/19.ts",
     "20": "bun run 20/20.ts",
-    "21": "bun run 21/21.ts"
+    "21": "bun run 21/21.ts",
+    "22": "bun run 22/22.ts",
+    "23": "bun run 22/asd.js"
   },
   "dependencies": {}
 }
