@@ -31,7 +31,7 @@
     "20": "bun run 20/20.ts",
     "21": "bun run 21/21.ts",
     "22": "bun run 22/22.ts",
-    "23": "bun run 22/asd.js"
+    "23": "bun run 23/23.ts"
   },
   "dependencies": {}
 }
